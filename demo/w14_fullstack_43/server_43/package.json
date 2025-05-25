@@ -2,6 +2,8 @@
   "name": "server_43",
   "type": "module",
   "scripts": {
-    "dev": "node server_43.js"
+    "dev": "node server_43.js",
+    "db:test": "node utils/db-test.js",
+    "db": "node utils/database.js"
   }
 }
