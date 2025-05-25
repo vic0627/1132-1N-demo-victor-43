@@ -1,0 +1,7 @@
+{
+  "name": "server_43",
+  "type": "module",
+  "scripts": {
+    "dev": "node server_43.js"
+  }
+}
